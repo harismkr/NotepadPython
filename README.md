@@ -1,0 +1,1 @@
+When running this programm in a friends computer it automaticaly opens the notepad using pyautogui. In the programm there is also the library called time in order for the other person to see what is going on and not miss it
